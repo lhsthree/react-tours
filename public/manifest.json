@@ -1,0 +1,8 @@
+{
+  "short_name": "React-Tours",
+  "name": "Create React Tour App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
